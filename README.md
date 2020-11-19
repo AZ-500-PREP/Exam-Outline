@@ -1,5 +1,8 @@
 # Exam-Outline
 
+> Exam Updated as of September 24, 2020
+
+
 ## Manage identity and access (30-35%)
 
 ### Manage Azure Active Directory identities
